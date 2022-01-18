@@ -1,0 +1,3 @@
+PID,condition,case,task,trial,size,distance(cm),Angular error X,Angular error Y,Angular error Z,time(sec.),number of attempt,number of collision,volume difference(cm^3),path length(cm),total angular rotation X,total angular rotation Y,total angular rotation Z,continous delta volume error(cm^3)
+1,0,1,1,2,small,0.009684082,1.058014,0,0,8.074696,,,,,,,,
+

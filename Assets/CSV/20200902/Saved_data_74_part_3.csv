@@ -1,0 +1,14 @@
+PID,condition,case,task,trial,size,distance(cm),Angular error X,Angular error Y,Angular error Z,volume difference(cm^3),time(sec.),number of attempt,number of collision,path length(cm),total angular rotation X,total angular rotation Y,total angular rotation Z,continous delta volume error(m^3)
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,1,1,small,13.86813,-3.454643,0,0,-30488.12,41.06393,,,3.62134,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,1,2,small,15.08987,0.2850494,0,0,91380.09,33.33207,,,2.119807,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,1,1,big,29.32544,-4.815674,0,0,-124707.7,27.53084,,,2.484183,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,1,2,big,41.57727,7.994171,0,0,-6540124,26.32308,,,5.625897,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,2,1,small,52.23434,8.527454,0,0,-3027726,25.21222,,,4.965896,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,2,2,small,3.115777,1.002638,5.130722,-0.002702822,63139.41,43.74502,,,2.20319,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,2,1,big,19.43538,0,2.468102,0,-66426.69,46.25246,,,2.548203,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,2,2,big,15.79527,356.4355,2.05191,359.8694,379267.1,72.82317,,,12.77884,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,3,1,small,29.28578,5.94691,3.77268,5.364957E-07,616215.3,60.86044,,,8.257387,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,3,2,small,6.317055,0,0,-0.6448669,23822.42,29.60119,,,3.022161,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,3,1,big,21.09505,0,0,-1.894104,-141061,24.90852,,,2.407178,,,,
+74,1,docking: 3-dim T + 3-dim R + 3-dim S,3,2,big,22.89036,0,0,-0.1811552,-1899214,29.19971,,,1.940531,,,,
+
